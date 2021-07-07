@@ -1,0 +1,1 @@
+# Automator-Open-Exchange-Rate
